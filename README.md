@@ -1,3 +1,2 @@
-# Repositório de Projetos da DIO
+# project flexbox DIO
 
-Este repositório será para os cursos feitos na DIO
