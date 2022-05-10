@@ -1,3 +1,3 @@
-# Repositório de Projetos da DIO
+# projetos e desafios - dio
 
-Este repositório será para os cursos feitos na DIO
+
